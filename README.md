@@ -1,3 +1,3 @@
-#README
+# Student Club Recommendation ML Project 
 ***
-This a project made for the Fall 2024 Cohort of the AI Launch Lab Program!
+This project was made for the Fall 2024 Cohort of the AI Launch Lab Program!
